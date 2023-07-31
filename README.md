@@ -1,1 +1,1 @@
-# Vallid-email-checking-using-python
+# Valid-email-checking-using-python
